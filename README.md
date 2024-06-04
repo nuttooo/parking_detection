@@ -26,7 +26,7 @@ Update and upgrade your Raspberry Pi:
 ```sh
 sudo apt update
 sudo apt upgrade
-sudo apt install python3-pip python3-opencv libopencv-dev
+sudo apt install python3-pip python3-opencv libopencv-dev git libusb-1.0-0-dev g++ build-essential
 ```
 ### 2. Clone the Repository
 ```sh
