@@ -1,5 +1,5 @@
 roboflow==1.1.30
-firebase-admin==6.5.0
+firebase-admin==6.5.0 --hash=sha256:fe34ee3ca0e625c5156b3931ca4b4b69b5fc344dbe51bba9706ff674ce277898
 pytesseract==0.3.10
 python-dotenv==1.0.1
 google-cloud-storage==2.16.0
