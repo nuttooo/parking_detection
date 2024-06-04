@@ -1,0 +1,7 @@
+roboflow
+firebase-admin
+pytesseract
+python-dotenv
+google-cloud-storage
+google-cloud-firestore
+opencv-python
