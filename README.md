@@ -30,7 +30,7 @@ sudo apt install python3-pip python3-opencv libopencv-dev
 ```
 ### 2. Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/parking_detection.git
+git clone https://github.com/nuttooo/parking_detection.git
 cd parking_detection
 ```
 
